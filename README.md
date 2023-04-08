@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythink
 - 📫 How to reach me: yucel.danisman@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: html-css-bootstrap-react-react/native
+- ⚡ Fun fact: html-css-bootstrap-javascript-react-react/native
 
