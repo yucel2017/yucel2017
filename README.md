@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on Front-End
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about anythink
 - 📫 How to reach me: yucel.danisman@gmail.com
